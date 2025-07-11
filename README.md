@@ -1,11 +1,15 @@
+
+<!-- Useful links -->
+<!-- https://simpleicons.org/ -->
+<!-- https://badges.pages.dev/ Can click to copy the badge md with this one-->
+<!-- https://zzetao.github.io/awesome-github-profile/ -->
+
 ##  About me
 🧑‍💻 InfraEngineer turned DevOps<br/>
 
 
 <!-- 🛠️ Love building stuff (mostly Lego)<br/>
 🎧 Love riding my bike and listening to audiobooks<br/>
-
-
 
 
 <details>
@@ -47,4 +51,3 @@
 
  
 </details>
-# Profile
